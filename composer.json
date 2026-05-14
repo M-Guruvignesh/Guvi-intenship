@@ -1,0 +1,9 @@
+{
+  "name": "guvi/internship-project",
+  "description": "GUVI developer internship full-stack task",
+  "type": "project",
+  "require": {
+    "predis/predis": "^2.3",
+    "mongodb/mongodb": "^2.3"
+  }
+}

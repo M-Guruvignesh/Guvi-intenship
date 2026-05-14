@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+}
+
+.card {
+  border: 0;
+  border-radius: 1rem;
+}
+
+.alert {
+  margin-bottom: 1rem;
+}
